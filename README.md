@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning in the Department of Computer Engineering, Faculty of Engineering University of Peradeniya
+- 🌱 I’m a graduate from the Department of Computer Engineering, Faculty of Engineering, University of Peradeniya
 - 👯 I’m looking to collaborate on Software Engineering
-- 📫 How to reach me: mewan.dimalsha1234@gmail.com or e19111@eng.pdn.ac.lk
+- 📫 How to reach me: mewandimalsha8@gmail.com or e19111@eng.pdn.ac.lk
 <!--
 **mewanDimalsha/mewanDimalsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
